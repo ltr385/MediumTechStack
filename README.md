@@ -1,5 +1,7 @@
 # MediumTechStack
 
+Contact with me in LinkedIn: [Luis Téllez](https://www.linkedin.com/in/luistellez1998/)
+
 # Code Repository for My Medium Posts
 ---
 ## Repositorio de Código de Mis Posts en Medium
